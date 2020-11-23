@@ -9,7 +9,7 @@ I thought it would be good to play around with this tool to assimilate the theor
 
 ### Getting Started
 
-Since the code is in a notebook, you will need to be able to access it. If you don't know what a Jupyter notebook is, I encourage you to use vanilla Jupyter and to read more about it and how to install it at ...
+Since the code is in a notebook, you will need to be able to access it. If you don't know what a Jupyter notebook is, I encourage you to use vanilla Jupyter and to read more about it and how to install it at https://jupyter.org/
 
 With that out of the way you will need to install the code dependencies. I include a `requirements.txt` that you can install executing `pip install -r requirements.txt` or `conda install --yes --file requirements.txt` depending on what package manager you prefer.
 

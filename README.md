@@ -9,8 +9,10 @@ I thought it would be good to play around with this tool to assimilate the theor
 
 ### Getting Started
 
-Since the code is in a notebook, you will need to be able to access it. If you don't know what a Jupyter notebook is, I encourage you to use vanilla Jupyter and to read more about it and how to install it at https://jupyter.org/
+Since the code is in Jupyter notebooks, you will need to be able to access it. If you don't know what a Jupyter notebook is, I encourage you to use vanilla Jupyter. Go to https://jupyter.org/ to find out how to install it and to learn more about it.
 
-With that out of the way you will need to install the code dependencies. I include a `requirements.txt` that you can install executing `pip install -r requirements.txt` or `conda install --yes --file requirements.txt` depending on what package manager you prefer.
+With that out of the way, you will need to install the code dependencies. I include a `requirements.txt` that you can install executing `pip install -r requirements.txt` or `conda install --yes --file requirements.txt` depending on what package manager you prefer.
 
+### Methodologies comparison
 
+In the `methodologies_comparison.ipynb` notebook you can find a comparison of two possible methodologies to achieve equalized odds as described in the intro notebook. The comparison is done using 3 datasets, which can be downloaded from [OpenML](https://www.openml.org/)

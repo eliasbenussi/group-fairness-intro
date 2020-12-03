@@ -1,4 +1,4 @@
-# group-fairness-intro
+# Group fairness with Fairlearn
 
 This repository explores concepts of group fairness in ML I encountered while reading the paper [Equality of Opportunity in Supervised Learning](https://arxiv.org/abs/1610.02413). Since I aimed for this to be a nice and easy interactive intro, the code is stored in a Jupyter notebook (called `fairlearn_overview.ipynb`).
 
